@@ -1,0 +1,133 @@
+AnagramGame *** Folder ***
+	build *** Folder ***
+		built-jar.properties
+		classes *** Folder ***
+			.netbeans_automatic_build
+			.netbeans_update_resources
+			com *** Folder ***
+				toy *** Folder ***
+					anagrams *** Folder ***
+						lib *** Folder ***
+							StaticWordLibrary.class
+							WordLibrary.class
+						ui *** Folder ***
+							About$1.class
+							About.class
+							About.form
+							Anagrams$1.class
+							Anagrams$2.class
+							Anagrams$3.class
+							Anagrams$4.class
+							Anagrams$5.class
+							Anagrams$6.class
+							Anagrams.class
+							Anagrams.form
+		empty *** Folder ***
+		generated-sources *** Folder ***
+			ap-source-output *** Folder ***
+	build.xml
+	dist *** Folder ***
+		anagrams.jar
+		README.TXT
+	manifest.mf
+	nbproject *** Folder ***
+		build-impl.xml
+		genfiles.properties
+		private *** Folder ***
+			private.properties
+			private.xml
+		project.properties
+		project.xml
+	src *** Folder ***
+		com *** Folder ***
+			toy *** Folder ***
+				anagrams *** Folder ***
+					lib *** Folder ***
+						StaticWordLibrary.java
+						WordLibrary.java
+					ui *** Folder ***
+						About.form
+						About.java
+						Anagrams.form
+						Anagrams.java
+	test *** Folder ***
+		com *** Folder ***
+			toy *** Folder ***
+				anagrams *** Folder ***
+					lib *** Folder ***
+						WordLibraryTest.java
+Area.class
+Area.java
+Areacheck.class
+Areacheck.java
+Barking.class
+CommandLine.java
+CopyFile.class
+CopyFile.java
+CopyFile2.class
+CopyFile2.java
+DateDemo.class
+DateDemo.java
+DiffDemo.java
+Directory Java.txt
+DirReader.class
+DirReader.java
+DirReaderTest.class
+DirReaderTest.java
+Dog.class
+Dog.java
+Employee.class
+Employee.java
+EmployeeTest.class
+EmployeeTest.java
+fileStreamTest.java
+FreshJuice$FreshJuiceSize.class
+FreshJuice.class
+FreshJuiceTest.class
+FreshJuiceTest.java
+input.txt
+Java1stProgram.class
+Java1stProgram.java
+Learning *** Folder ***
+	build *** Folder ***
+		built-jar.properties
+		classes *** Folder ***
+			.netbeans_automatic_build
+			.netbeans_update_resources
+			learning *** Folder ***
+				ConsDemo.class
+				MyClass.class
+		empty *** Folder ***
+		generated-sources *** Folder ***
+			ap-source-output *** Folder ***
+	build.xml
+	dist *** Folder ***
+		Learning.jar
+	manifest.mf
+	nbproject *** Folder ***
+		build-impl.xml
+		genfiles.properties
+		private *** Folder ***
+			private.properties
+		project.properties
+		project.xml
+	src *** Folder ***
+		learning *** Folder ***
+			ConsDemo.java
+			MyClass.java
+output.txt
+Puppy.class
+Puppy.java
+ReadConsole.class
+ReadConsole.java
+ReadDir.class
+ReadDir.java
+RegexMatch4.java
+RegexMatches.java
+RegexMatches2.java
+RegexMatches3.class
+RegexMatches3.java
+RegexMatches5.java
+SleepDemo.java
+This_Example.java
+VarargsDemo.java
