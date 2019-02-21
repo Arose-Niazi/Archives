@@ -8,12 +8,14 @@ public class DirSelectForm extends JFrame {
     private JScrollPane scroll;
     private JTextField DirecotryPath;
     private JButton changePathButton;
+    private JTextField FilePath;
     private JCheckBox saveToFileCheckBox;
     private JCheckBox includeFilesCheckBox;
     private JCheckBox includeFoldersCheckBox;
     private JCheckBox checkSubFoldersCheckBox;
     private JCheckBox fileTypeDisincludeCheckBox;
     private JTextField textField2;
+    private JTextField textField1;
 
     public DirSelectForm() {
 
@@ -49,6 +51,10 @@ public class DirSelectForm extends JFrame {
 
     public JButton getChangePathButton() {
         return changePathButton;
+    }
+
+    public JTextField getFilePath() {
+        return FilePath;
     }
 
     public JCheckBox getSaveToFileCheckBox() {
