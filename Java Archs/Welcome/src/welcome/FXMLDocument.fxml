@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox alignment="CENTER" prefHeight="328.0" prefWidth="325.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="welcome.FXMLDocumentController">
+   <children>
+      <TextField fx:id="textfield1" onMouseMoved="#HandlingMouse">
+         <opaqueInsets>
+            <Insets top="50.0" />
+         </opaqueInsets>
+      </TextField>
+      <TextField fx:id="textfield2" onMouseMoved="#HandlingMouse">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <VBox.margin>
+            <Insets top="50.0" />
+         </VBox.margin>
+      </TextField>
+   </children>
+   <padding>
+      <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+   </padding>
+</VBox>

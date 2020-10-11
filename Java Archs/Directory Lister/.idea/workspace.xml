@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67a710ca-77b9-4b84-b404-94192e1a829f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/src/com/toy/anagrams/lib/StaticWordLibrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/src/com/toy/anagrams/lib/WordLibrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/src/com/toy/anagrams/ui/About.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/src/com/toy/anagrams/ui/About.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/src/com/toy/anagrams/ui/Anagrams.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/src/com/toy/anagrams/ui/Anagrams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnagramGame/test/com/toy/anagrams/lib/WordLibraryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/.idea/artifacts/BMI_Calculator_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BMI Calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/BMI Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/out/production/BMI Calculator/META-INF/BMI Calculator.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/out/production/BMI Calculator/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/src/BMI.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/src/BMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/src/BMIC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMI Calculator/src/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DirSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DirSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DirSelectForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/DirSelectForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DirSelectForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DirSelectForm.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iitpJd5G1ZxyCINLvohC9z7FWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="ToolWindow" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="252" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550407532636" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="Directory Lister" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67a710ca-77b9-4b84-b404-94192e1a829f" name="Default Changelist" comment="" />
+      <created>1549113208489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549113208489</updated>
+      <workItem from="1602402423527" duration="1073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1602403141648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602403141648" />
+    <state width="1367" height="112" key="GridCell.Tab.0.bottom" timestamp="1602403503988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="112" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602403503988" />
+    <state width="1367" height="112" key="GridCell.Tab.0.center" timestamp="1602403503988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="112" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602403503988" />
+    <state width="1367" height="112" key="GridCell.Tab.0.left" timestamp="1602403503988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="112" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602403503988" />
+    <state width="1367" height="112" key="GridCell.Tab.0.right" timestamp="1602403503988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="112" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602403503988" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="javafx-preloader" name="Cricket">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cricket</output-path>
+    <root id="archive" name="Cricket.jar">
+      <element id="module-output" name="Space-Games" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+    </root>
+  </artifact>
+</component>

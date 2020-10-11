@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane xmlns:fx="http://javafx.com/fxml" fx:controller="PlayGround">
+   <children>
+      <Group scaleY="2.0" scaleZ="2.0">
+         <children>
+            <Pane layoutY="66.0" prefHeight="266.0" prefWidth="612.0" style="-fx-background-color: black;">
+               <children>
+                  <Label alignment="TOP_CENTER" layoutX="115.0" layoutY="26.0" prefHeight="17.0" prefWidth="367.0" text="BlackJack" textAlignment="CENTER">
+                     <font>
+                        <Font name="Arial Bold" size="48.0" />
+                     </font>
+                     <textFill>
+                        <LinearGradient endX="1.0" endY="1.0">
+                           <stops>
+                              <Stop color="#a4a4a4" />
+                              <Stop color="WHITE" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </textFill>
+                  </Label>
+                  <Label layoutX="20.0" layoutY="77.0" text="Dealer" textAlignment="CENTER" textFill="WHITE" />
+                  <Label layoutX="482.0" layoutY="166.0" text="Score" textFill="WHITE" />
+                  <Group fx:id="DealerCards" layoutX="18.0" layoutY="98.0">
+                     <children>
+                        <ImageView fx:id="dCard_1" fitHeight="49.0" fitWidth="59.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="dCard_2" fitHeight="49.0" fitWidth="59.0" layoutX="62.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="dCard_3" fitHeight="49.0" fitWidth="59.0" layoutX="124.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="dCard_4" fitHeight="49.0" fitWidth="59.0" layoutX="186.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="dCard_5" fitHeight="49.0" fitWidth="59.0" layoutX="248.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="dCard_6" fitHeight="49.0" fitWidth="59.0" layoutX="310.0" pickOnBounds="true">
+
+                        </ImageView>
+                     </children>
+                  </Group>
+                  <Group fx:id="PlayerCards" layoutX="18.0" layoutY="186.0">
+                     <children>
+                        <ImageView fx:id="pCard_1" fitHeight="49.0" fitWidth="59.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="pCard_2" fitHeight="49.0" fitWidth="59.0" layoutX="62.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="pCard_3" fitHeight="49.0" fitWidth="59.0" layoutX="124.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="pCard_4" fitHeight="49.0" fitWidth="59.0" layoutX="186.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="pCard_5" fitHeight="49.0" fitWidth="59.0" layoutX="248.0" pickOnBounds="true">
+
+                        </ImageView>
+                        <ImageView fx:id="pCard_6" fitHeight="49.0" fitWidth="59.0" layoutX="310.0" pickOnBounds="true">
+
+                        </ImageView>
+                     </children>
+                  </Group>
+                  <Label fx:id="PlayerName" layoutX="21.0" layoutY="166.0" text="Player" textFill="WHITE" />
+                  <Button fx:id="StartEndButton" alignment="CENTER" layoutX="22.0" layoutY="240.0" mnemonicParsing="false" onMouseClicked="#OnButtonPress" prefHeight="17.0" prefWidth="76.0" text="START">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Button>
+               </children>
+            </Pane>
+         </children>
+      </Group>
+   </children>
+</Pane>
