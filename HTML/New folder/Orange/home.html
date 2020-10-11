@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Stadium Madness</title>
+		<link rel="stylesheet" href="styles.css">
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<script>
+			function textdisplay(sw) {
+				var heading;
+				if (sw == 0) 
+				{
+					heading = "samp://198.100.144.190:4017";
+				} 
+				else if(sw == 1)
+				{
+					heading="http://stadiummadness.esy.es/forums/index.php";
+				}
+				else if(sw == 2)
+				{
+					heading="https://kiwiirc.com/client/irc.tl/stadium-madness";
+				}
+				if(sw < 3) window.open(heading,"_self");
+			}
+		</script>
+		<div id="header">
+			<a href="#" ><img id="logo" src="html pics/stadiummadness.png" alt="Stadium Madness" id="logo"></a>
+		</div>
+		<div id="options">
+			<a  class="button" onclick="textdisplay(0)">Server</a>
+			<a  class="button" onclick="textdisplay(1)">Forums</a>
+			<a  class="button" onclick="textdisplay(2)">IRC</a>
+			<a  class="button" onclick="textdisplay(3)">Donate</a>
+		</div>
+		<footer><div id="footer">
+		Copyright © Stadium Madness
+		</div></footer>
+		
+	</body>
+</html>

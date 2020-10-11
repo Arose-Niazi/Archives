@@ -1,0 +1,13 @@
+#underimg {
+	font-family:"algerian";
+	position:fixed;
+	top:300px;
+	left:180px;
+}
+img {
+	height:300px;
+	width:500px;
+	position:fixed;
+	top:0px;
+	left:0px;
+}

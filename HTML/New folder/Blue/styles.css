@@ -1,0 +1,85 @@
+html , body { 
+	width:100%;
+    min-height: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #7fe2ff;
+	padding-bottom:0px;
+	border:0;
+}
+
+a:link    {color:white; background-color:transparent; text-decoration: none;} /*will change default link color to #7fe2ff */
+a:visited {color:white; background-color:transparent; text-decoration: none;}/*will change default visited link color to #7fe2ff */
+a:hover   {color:black; background-color:transparent; text-decoration: none;} /*this will change the color of the link we are clicking on */
+a:active  {color:white; background-color:transparent; text-decoration: none;} /*will change the color of the link to red on which mouse is on */
+
+
+.button:hover {
+    background-color: #3366ff;
+	/*background-image: url("http://hdwallpaperia.com/wp-content/uploads/2013/11/Sports-Girls-Anime.jpg");*/
+    border-radius: 0px 0px 0px 0px;
+    /*margin:0px;*/
+    color:black;
+    opacity: 1;
+    -moz-opacity: 0.8;
+    transition: 1.4s ease;
+    -webkit-transition: 1.4s ease;
+    -moz-transition: 1.4s ease;
+}
+.button {
+    background-color: ornage;
+	/*background-image: url("http://media02.hongkiat.com/anime_manga_wallpapers/Splattered-Tunes-anime-wallpaper.jpg");*/
+    border-radius: 0px 0px 0px 0px;
+    /*margin:0px;*/
+    color:white;
+    text-align:center;
+    padding:100px;
+    width:35%;
+    height:100%;
+    float:left;
+}
+#header {
+    background-color:#7fe2ff;
+    color:white;
+    text-align:center;
+    padding:45px;
+}
+#options {
+    position:relative; 
+}
+
+#footer {
+    background-color:#7fe2ff;
+    color:white;
+    clear:both;
+    text-align:center;
+	padding:0px;
+	clear:both;
+	position:fixed;
+	bottom:0;
+	width:100%;
+    height:20px;
+	left:0;
+}
+#logo {
+	background-color:transparent;
+	padding:0px;
+	display:block;
+	position:static;
+	margin-left:auto;
+	margin-right:auto;
+	top:0px;
+	width:170px;
+	height:30px
+    -moz-opacity: 1;
+    transition: 1s ease;
+    -webkit-transition: 1s ease;
+    -moz-transition: 1s ease;
+}
+#logo:hover {
+	z-index:-0.1;
+    opacity: 1;
+    -webkit-opacity: 0.8;
+    -moz-opacity: 0.8;
+}

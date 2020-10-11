@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SA-MP Server</title>
+		<link rel="stylesheet" href="styles.css">
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<script>
+			function textdisplay(sw) {
+				var heading;
+				if (sw == 0) 
+				{
+					heading = "What's New"
+				} 
+				else if (sw == 1) 
+				{
+					heading = "My Account"
+				}
+				else if (sw == 2)
+				{
+					heading ="Server Data"
+				}
+				else if (sw == 3)
+				{
+					heading ="OLD Posts"
+				}
+				else if(sw == 4)
+				{
+					heading="http://www.w3schools.com/css/css_boxmodel.asp"
+				}
+				if(sw < 4) document.getElementById('IDheading').innerHTML = heading;
+				else window.open(heading,"_self")
+			}
+		</script>
+		<div id="header">
+			<a href="#" ><img id="logo" src="../html/html pics/channe223.png" alt="Channel223" id="logo"></a>
+		</div>
+		<div id="options">
+			<a  class="button" onclick="textdisplay(0)">What's New</a>
+			<a  class="button" onclick="textdisplay(1)">My Account</a>
+			<a  class="button" onclick="textdisplay(2)">Server Data</a>
+			<a  class="button" onclick="textdisplay(3)">OLD Posts</a>
+			<a  class="button" onclick="textdisplay(4)">Last Left HTML</a>	
+		</div>
+		<footer><div id="footer">
+		Copyright © Channel223
+		</div></footer>
+		
+	</body>
+</html>
